@@ -1,6 +1,8 @@
 # Weather App
- It provides relevant weather data to the user based on the user's location.
+It provides relevant weather data to the user based on the user's location.
+
 1-The user's current location was obtained with the Corelocation library.
+
 2-Knowledge was shared with Openweather API and weather data of the place was received.
 
 
